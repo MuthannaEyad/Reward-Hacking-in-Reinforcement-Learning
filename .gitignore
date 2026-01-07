@@ -1,0 +1,15 @@
+# Data & checkpoints
+data/
+datasets/
+checkpoints/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs & tools
+wandb/
+logs/
+.env
